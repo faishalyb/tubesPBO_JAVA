@@ -8,7 +8,6 @@ import java.awt.Dimension;
 import java.awt.Image;
 import java.awt.Toolkit;
 import javax.swing.ImageIcon;
-import java.awt.*;
 import java.sql.*;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
